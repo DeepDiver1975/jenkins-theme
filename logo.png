@@ -1,0 +1,1255 @@
+
+
+<!DOCTYPE html>
+<html>
+  <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# githubog: http://ogp.me/ns/fb/githubog#">
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>core/core/img/logo.png at master · owncloud/core · GitHub</title>
+    <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub" />
+    <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub" />
+    <link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-114.png" />
+    <link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114.png" />
+    <link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-144.png" />
+    <link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon-144.png" />
+    <link rel="logo" type="image/svg" href="https://github-media-downloads.s3.amazonaws.com/github-logo.svg" />
+    <link rel="assets" href="https://a248.e.akamai.net/assets.github.com/">
+    <link rel="xhr-socket" href="/_sockets" />
+    
+
+
+    <meta name="msapplication-TileImage" content="/windows-tile.png" />
+    <meta name="msapplication-TileColor" content="#ffffff" />
+    <meta name="selected-link" value="repo_source" data-pjax-transient />
+    <meta content="collector.githubapp.com" name="octolytics-host" /><meta content="github" name="octolytics-app-id" />
+
+    
+    
+    <link rel="icon" type="image/x-icon" href="/favicon.ico" />
+
+    <meta content="authenticity_token" name="csrf-param" />
+<meta content="h0w6QpESoS54VGEJoBniO5HhLie36vRSJhNjrdgMT9I=" name="csrf-token" />
+
+    <link href="https://a248.e.akamai.net/assets.github.com/assets/github-6dd454fdb86cf3bd9a1044d7d0f63179100d0525.css" media="all" rel="stylesheet" type="text/css" />
+    <link href="https://a248.e.akamai.net/assets.github.com/assets/github2-58b10e96bcdc3e0d5ea328ffcd01e36e2e8fd07e.css" media="all" rel="stylesheet" type="text/css" />
+    
+
+
+      <script src="https://a248.e.akamai.net/assets.github.com/assets/frameworks-4c434fa1705bf526e191eec0cd8fab1a5ce3e326.js" type="text/javascript"></script>
+      <script src="https://a248.e.akamai.net/assets.github.com/assets/github-4d962942351f9bca93a4cc0818497ecb764bf2aa.js" type="text/javascript"></script>
+      
+      <meta http-equiv="x-pjax-version" content="67766df09e54c18702c5229297b15d13">
+
+        <link data-pjax-transient rel='permalink' href='/owncloud/core/blob/59d3c5a57507e21ddae7e0c66d5f7f52b68ccb2a/core/img/logo.png'>
+
+  <meta property="og:title" content="core"/>
+  <meta property="og:type" content="githubog:gitrepository"/>
+  <meta property="og:url" content="https://github.com/owncloud/core"/>
+  <meta property="og:image" content="https://a248.e.akamai.net/assets.github.com/images/gravatars/gravatar-user-420.png"/>
+  <meta property="og:site_name" content="GitHub"/>
+  <meta property="og:description" content="The ownCloud core"/>
+
+  <meta name="description" content="The ownCloud core" />
+
+  <meta content="1645051" name="octolytics-dimension-user_id" /><meta content="owncloud" name="octolytics-dimension-user_login" /><meta content="5550552" name="octolytics-dimension-repository_id" /><meta content="owncloud/core" name="octolytics-dimension-repository_nwo" /><meta content="true" name="octolytics-dimension-repository_public" /><meta content="false" name="octolytics-dimension-repository_is_fork" /><meta content="5550552" name="octolytics-dimension-repository_network_root_id" /><meta content="owncloud/core" name="octolytics-dimension-repository_network_root_nwo" />
+  <link href="https://github.com/owncloud/core/commits/master.atom" rel="alternate" title="Recent Commits to core:master" type="application/atom+xml" />
+
+  </head>
+
+
+  <body class="logged_out page-blob  vis-public env-production  kill-the-chrome">
+    <div id="wrapper">
+
+      
+      
+      
+
+      
+      <div class="header header-logged-out">
+  <div class="container clearfix">
+
+    <a class="header-logo-wordmark" href="https://github.com/">Github</a>
+
+    <div class="header-actions">
+      <a class="button primary" href="/signup">Sign up</a>
+      <a class="button" href="/login?return_to=%2Fowncloud%2Fcore%2Fblob%2Fmaster%2Fcore%2Fimg%2Flogo.png">Sign in</a>
+    </div>
+
+    <div class="command-bar js-command-bar  in-repository">
+
+
+      <ul class="top-nav">
+          <li class="explore"><a href="/explore">Explore</a></li>
+        <li class="features"><a href="/features">Features</a></li>
+          <li class="enterprise"><a href="https://enterprise.github.com/">Enterprise</a></li>
+          <li class="blog"><a href="/blog">Blog</a></li>
+      </ul>
+        <form accept-charset="UTF-8" action="/search" class="command-bar-form" id="top_search_form" method="get">
+
+<input type="text" data-hotkey="/ s" name="q" id="js-command-bar-field" placeholder="Search or type a command" tabindex="1" autocapitalize="off"
+    
+      data-repo="owncloud/core"
+      data-branch="master"
+      data-sha="6e80a22ad695f95299a20185dc5cb133d353909c"
+  >
+
+    <input type="hidden" name="nwo" value="owncloud/core" />
+
+    <div class="select-menu js-menu-container js-select-menu search-context-select-menu">
+      <span class="minibutton select-menu-button js-menu-target">
+        <span class="js-select-button">This repository</span>
+      </span>
+
+      <div class="select-menu-modal-holder js-menu-content js-navigation-container">
+        <div class="select-menu-modal">
+
+          <div class="select-menu-item js-navigation-item selected">
+            <span class="select-menu-item-icon octicon octicon-check"></span>
+            <input type="radio" class="js-search-this-repository" name="search_target" value="repository" checked="checked" />
+            <div class="select-menu-item-text js-select-button-text">This repository</div>
+          </div> <!-- /.select-menu-item -->
+
+          <div class="select-menu-item js-navigation-item">
+            <span class="select-menu-item-icon octicon octicon-check"></span>
+            <input type="radio" name="search_target" value="global" />
+            <div class="select-menu-item-text js-select-button-text">All repositories</div>
+          </div> <!-- /.select-menu-item -->
+
+        </div>
+      </div>
+    </div>
+
+  <span class="octicon help tooltipped downwards" title="Show command bar help">
+    <span class="octicon octicon-question"></span>
+  </span>
+
+
+  <input type="hidden" name="ref" value="cmdform">
+
+</form>
+    </div>
+
+  </div>
+</div>
+
+
+      
+
+
+          
+  <div class="site" itemscope itemtype="http://schema.org/WebPage">
+    
+    <div class="pagehead repohead instapaper_ignore readability-menu">
+      <div class="container">
+        
+
+<ul class="pagehead-actions">
+
+
+
+    <li>
+      <a href="/login?return_to=%2Fowncloud%2Fcore"
+        class="minibutton with-count js-toggler-target star-button entice tooltipped upwards"
+        title="You must be signed in to use this feature" rel="nofollow">
+        <span class="octicon octicon-star"></span>Star
+      </a>
+      <a class="social-count js-social-count" href="/owncloud/core/stargazers">
+        1,085
+      </a>
+    </li>
+    <li>
+      <a href="/login?return_to=%2Fowncloud%2Fcore"
+        class="minibutton with-count js-toggler-target fork-button entice tooltipped upwards"
+        title="You must be signed in to fork a repository" rel="nofollow">
+        <span class="octicon octicon-git-branch"></span>Fork
+      </a>
+      <a href="/owncloud/core/network" class="social-count">
+        369
+      </a>
+    </li>
+</ul>
+
+        <h1 itemscope itemtype="http://data-vocabulary.org/Breadcrumb" class="entry-title public">
+          <span class="repo-label"><span>public</span></span>
+          <span class="mega-octicon octicon-repo"></span>
+          <span class="author">
+            <a href="/owncloud" class="url fn" itemprop="url" rel="author"><span itemprop="title">owncloud</span></a></span
+          ><span class="repohead-name-divider">/</span><strong
+          ><a href="/owncloud/core" class="js-current-repository js-repo-home-link">core</a></strong>
+
+          <span class="page-context-loader">
+            <img alt="Octocat-spinner-32" height="16" src="https://a248.e.akamai.net/assets.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
+          </span>
+
+        </h1>
+      </div><!-- /.container -->
+    </div><!-- /.repohead -->
+
+    <div class="container">
+
+      <div class="repository-with-sidebar repo-container
+            
+            ">
+
+          <div class="repository-sidebar">
+
+            
+
+<div class="repo-nav repo-nav-full js-repository-container-pjax js-octicon-loaders">
+  <div class="repo-nav-contents">
+    <ul class="repo-menu">
+      <li class="tooltipped leftwards" title="Code">
+        <a href="/owncloud/core" class="js-selected-navigation-item selected" data-gotokey="c" data-pjax="true" data-selected-links="repo_source repo_downloads repo_commits repo_tags repo_branches /owncloud/core">
+          <span class="octicon octicon-code"></span> <span class="full-word">Code</span>
+          <img alt="Octocat-spinner-32" class="mini-loader" height="16" src="https://a248.e.akamai.net/assets.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
+</a>      </li>
+
+        <li class="tooltipped leftwards" title="Issues">
+          <a href="/owncloud/core/issues" class="js-selected-navigation-item js-disable-pjax" data-gotokey="i" data-selected-links="repo_issues /owncloud/core/issues">
+            <span class="octicon octicon-issue-opened"></span> <span class="full-word">Issues</span>
+            <span class='counter'>771</span>
+            <img alt="Octocat-spinner-32" class="mini-loader" height="16" src="https://a248.e.akamai.net/assets.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
+</a>        </li>
+
+      <li class="tooltipped leftwards" title="Pull Requests"><a href="/owncloud/core/pulls" class="js-selected-navigation-item js-disable-pjax" data-gotokey="p" data-selected-links="repo_pulls /owncloud/core/pulls">
+            <span class="octicon octicon-git-pull-request"></span> <span class="full-word">Pull Requests</span>
+            <span class='counter'>81</span>
+            <img alt="Octocat-spinner-32" class="mini-loader" height="16" src="https://a248.e.akamai.net/assets.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
+</a>      </li>
+
+
+        <li class="tooltipped leftwards" title="Wiki">
+          <a href="/owncloud/core/wiki" class="js-selected-navigation-item " data-pjax="true" data-selected-links="repo_wiki /owncloud/core/wiki">
+            <span class="octicon octicon-book"></span> <span class="full-word">Wiki</span>
+            <img alt="Octocat-spinner-32" class="mini-loader" height="16" src="https://a248.e.akamai.net/assets.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
+</a>        </li>
+
+
+    </ul>
+    <div class="repo-menu-separator"></div>
+    <ul class="repo-menu">
+
+      <li class="tooltipped leftwards" title="Pulse">
+        <a href="/owncloud/core/pulse" class="js-selected-navigation-item " data-pjax="true" data-selected-links="pulse /owncloud/core/pulse">
+          <span class="octicon octicon-pulse"></span> <span class="full-word">Pulse</span>
+          <img alt="Octocat-spinner-32" class="mini-loader" height="16" src="https://a248.e.akamai.net/assets.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
+</a>      </li>
+
+      <li class="tooltipped leftwards" title="Graphs">
+        <a href="/owncloud/core/graphs" class="js-selected-navigation-item " data-pjax="true" data-selected-links="repo_graphs repo_contributors /owncloud/core/graphs">
+          <span class="octicon octicon-graph"></span> <span class="full-word">Graphs</span>
+          <img alt="Octocat-spinner-32" class="mini-loader" height="16" src="https://a248.e.akamai.net/assets.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
+</a>      </li>
+
+      <li class="tooltipped leftwards" title="Network">
+        <a href="/owncloud/core/network" class="js-selected-navigation-item js-disable-pjax" data-selected-links="repo_network /owncloud/core/network">
+          <span class="octicon octicon-git-branch"></span> <span class="full-word">Network</span>
+          <img alt="Octocat-spinner-32" class="mini-loader" height="16" src="https://a248.e.akamai.net/assets.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
+</a>      </li>
+
+    </ul>
+
+  </div>
+</div>
+
+
+            <div class="only-with-full-nav">
+
+              
+
+  
+
+<div class="clone-url open"
+  data-protocol-type="http"
+  data-url="/users/set_protocol?protocol_selector=http&amp;protocol_type=clone">
+  <h3><strong>HTTPS</strong> clone URL</h3>
+
+  <input type="text" class="clone js-url-field"
+         value="https://github.com/owncloud/core.git" readonly="readonly">
+
+  <span class="js-zeroclipboard url-box-clippy zeroclipboard-button" data-clipboard-text="https://github.com/owncloud/core.git" data-copied-hint="copied!" title="copy to clipboard"><span class="octicon octicon-clippy"></span></span>
+</div>
+
+  
+
+<div class="clone-url "
+  data-protocol-type="subversion"
+  data-url="/users/set_protocol?protocol_selector=subversion&amp;protocol_type=clone">
+  <h3><strong>Subversion</strong> checkout URL</h3>
+
+  <input type="text" class="clone js-url-field"
+         value="https://github.com/owncloud/core" readonly="readonly">
+
+  <span class="js-zeroclipboard url-box-clippy zeroclipboard-button" data-clipboard-text="https://github.com/owncloud/core" data-copied-hint="copied!" title="copy to clipboard"><span class="octicon octicon-clippy"></span></span>
+</div>
+
+
+
+<p class="clone-options">You can clone with
+    <a href="#" class="js-clone-selector" data-protocol="http">HTTPS</a>,
+    <a href="#" class="js-clone-selector" data-protocol="subversion">Subversion</a>,
+  and <a href="https://help.github.com/articles/which-remote-url-should-i-use">other methods.</a>
+</p>
+
+
+
+
+                <a href="/owncloud/core/archive/master.zip"
+                   class="minibutton sidebar-button"
+                   title="Download this repository as a zip file"
+                   rel="nofollow">
+                  <span class="octicon octicon-cloud-download"></span>
+                  Download ZIP
+                </a>
+
+            </div>
+          </div>
+
+          <div id="js-repo-pjax-container" class="repository-content context-loader-container" data-pjax-container>
+            
+
+
+<!-- blob contrib key: blob_contributors:v21:0a42aa52929d8df21c08ea395b99a5e5 -->
+<!-- blob contrib frag key: views10/v8/blob_contributors:v21:0a42aa52929d8df21c08ea395b99a5e5 -->
+
+
+      <p title="This is a placeholder element" class="js-history-link-replace hidden"></p>
+
+        <a href="/owncloud/core/find/master" data-pjax data-hotkey="t" style="display:none">Show File Finder</a>
+
+        <div class="file-navigation">
+          
+
+
+<div class="select-menu js-menu-container js-select-menu" >
+  <span class="minibutton select-menu-button js-menu-target" data-hotkey="w"
+    data-master-branch="master"
+    data-ref="master">
+    <span class="octicon octicon-git-branch"></span>
+    <i>branch:</i>
+    <span class="js-select-button">master</span>
+  </span>
+
+  <div class="select-menu-modal-holder js-menu-content js-navigation-container" data-pjax>
+
+    <div class="select-menu-modal">
+      <div class="select-menu-header">
+        <span class="select-menu-title">Switch branches/tags</span>
+        <span class="octicon octicon-remove-close js-menu-close"></span>
+      </div> <!-- /.select-menu-header -->
+
+      <div class="select-menu-filters">
+        <div class="select-menu-text-filter">
+          <input type="text" id="context-commitish-filter-field" class="js-filterable-field js-navigation-enable" placeholder="Filter branches/tags">
+        </div>
+        <div class="select-menu-tabs">
+          <ul>
+            <li class="select-menu-tab">
+              <a href="#" data-tab-filter="branches" class="js-select-menu-tab">Branches</a>
+            </li>
+            <li class="select-menu-tab">
+              <a href="#" data-tab-filter="tags" class="js-select-menu-tab">Tags</a>
+            </li>
+          </ul>
+        </div><!-- /.select-menu-tabs -->
+      </div><!-- /.select-menu-filters -->
+
+      <div class="select-menu-list select-menu-tab-bucket js-select-menu-tab-bucket" data-tab-filter="branches">
+
+        <div data-filterable-for="context-commitish-filter-field" data-filterable-type="substring">
+
+
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/owncloud/core/blob/OC6-User-Management/core/img/logo.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="OC6-User-Management" rel="nofollow" title="OC6-User-Management">OC6-User-Management</a>
+            </div> <!-- /.select-menu-item -->
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/owncloud/core/blob/OC6_fileactions/core/img/logo.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="OC6_fileactions" rel="nofollow" title="OC6_fileactions">OC6_fileactions</a>
+            </div> <!-- /.select-menu-item -->
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/owncloud/core/blob/add_openssl_dependency/core/img/logo.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="add_openssl_dependency" rel="nofollow" title="add_openssl_dependency">add_openssl_dependency</a>
+            </div> <!-- /.select-menu-item -->
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/owncloud/core/blob/advanced_search_rebased/core/img/logo.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="advanced_search_rebased" rel="nofollow" title="advanced_search_rebased">advanced_search_rebased</a>
+            </div> <!-- /.select-menu-item -->
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/owncloud/core/blob/allow_adding_files_external_backends/core/img/logo.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="allow_adding_files_external_backends" rel="nofollow" title="allow_adding_files_external_backends">allow_adding_files_external_backends</a>
+            </div> <!-- /.select-menu-item -->
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/owncloud/core/blob/allow_to_decrypt_all_files/core/img/logo.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="allow_to_decrypt_all_files" rel="nofollow" title="allow_to_decrypt_all_files">allow_to_decrypt_all_files</a>
+            </div> <!-- /.select-menu-item -->
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/owncloud/core/blob/%3D%3D%3D_and_!%3D%3D_in_files-app/core/img/logo.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="===_and_!==_in_files-app" rel="nofollow" title="===_and_!==_in_files-app">===_and_!==_in_files-app</a>
+            </div> <!-- /.select-menu-item -->
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/owncloud/core/blob/%3D%3D%3D_and_!%3D%3D_in_files_sharing-app/core/img/logo.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="===_and_!==_in_files_sharing-app" rel="nofollow" title="===_and_!==_in_files_sharing-app">===_and_!==_in_files_sharing-app</a>
+            </div> <!-- /.select-menu-item -->
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/owncloud/core/blob/%3D%3D%3D_and_!%3D%3D_in_files_trashbin-app/core/img/logo.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="===_and_!==_in_files_trashbin-app" rel="nofollow" title="===_and_!==_in_files_trashbin-app">===_and_!==_in_files_trashbin-app</a>
+            </div> <!-- /.select-menu-item -->
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/owncloud/core/blob/%3D%3D%3D_and_!%3D%3D_in_files_versions-app/core/img/logo.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="===_and_!==_in_files_versions-app" rel="nofollow" title="===_and_!==_in_files_versions-app">===_and_!==_in_files_versions-app</a>
+            </div> <!-- /.select-menu-item -->
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/owncloud/core/blob/%3D%3D%3D_and_!%3D%3D_in_lib/core/img/logo.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="===_and_!==_in_lib" rel="nofollow" title="===_and_!==_in_lib">===_and_!==_in_lib</a>
+            </div> <!-- /.select-menu-item -->
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/owncloud/core/blob/%3D%3D%3D_and_!%3D%3D_in_settings/core/img/logo.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="===_and_!==_in_settings" rel="nofollow" title="===_and_!==_in_settings">===_and_!==_in_settings</a>
+            </div> <!-- /.select-menu-item -->
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/owncloud/core/blob/api_capabilities_quota/core/img/logo.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="api_capabilities_quota" rel="nofollow" title="api_capabilities_quota">api_capabilities_quota</a>
+            </div> <!-- /.select-menu-item -->
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/owncloud/core/blob/api_oauth/core/img/logo.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="api_oauth" rel="nofollow" title="api_oauth">api_oauth</a>
+            </div> <!-- /.select-menu-item -->
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/owncloud/core/blob/apilayer/core/img/logo.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="apilayer" rel="nofollow" title="apilayer">apilayer</a>
+            </div> <!-- /.select-menu-item -->
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/owncloud/core/blob/backport_ldap_configurable_username_n_uuid/core/img/logo.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="backport_ldap_configurable_username_n_uuid" rel="nofollow" title="backport_ldap_configurable_username_n_uuid">backport_ldap_configurable_username_n_uuid</a>
+            </div> <!-- /.select-menu-item -->
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/owncloud/core/blob/basic_auth_hack/core/img/logo.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="basic_auth_hack" rel="nofollow" title="basic_auth_hack">basic_auth_hack</a>
+            </div> <!-- /.select-menu-item -->
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/owncloud/core/blob/bruteforce-protection/core/img/logo.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="bruteforce-protection" rel="nofollow" title="bruteforce-protection">bruteforce-protection</a>
+            </div> <!-- /.select-menu-item -->
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/owncloud/core/blob/buildNotExistingFileNameForView/core/img/logo.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="buildNotExistingFileNameForView" rel="nofollow" title="buildNotExistingFileNameForView">buildNotExistingFileNameForView</a>
+            </div> <!-- /.select-menu-item -->
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/owncloud/core/blob/cache/core/img/logo.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="cache" rel="nofollow" title="cache">cache</a>
+            </div> <!-- /.select-menu-item -->
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/owncloud/core/blob/cache-search/core/img/logo.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="cache-search" rel="nofollow" title="cache-search">cache-search</a>
+            </div> <!-- /.select-menu-item -->
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/owncloud/core/blob/cache-usage/core/img/logo.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="cache-usage" rel="nofollow" title="cache-usage">cache-usage</a>
+            </div> <!-- /.select-menu-item -->
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/owncloud/core/blob/cleanup-setup/core/img/logo.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="cleanup-setup" rel="nofollow" title="cleanup-setup">cleanup-setup</a>
+            </div> <!-- /.select-menu-item -->
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/owncloud/core/blob/code-checker/core/img/logo.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="code-checker" rel="nofollow" title="code-checker">code-checker</a>
+            </div> <!-- /.select-menu-item -->
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/owncloud/core/blob/code_organization/core/img/logo.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="code_organization" rel="nofollow" title="code_organization">code_organization</a>
+            </div> <!-- /.select-menu-item -->
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/owncloud/core/blob/controls_css/core/img/logo.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="controls_css" rel="nofollow" title="controls_css">controls_css</a>
+            </div> <!-- /.select-menu-item -->
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/owncloud/core/blob/convert-oc_config/core/img/logo.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="convert-oc_config" rel="nofollow" title="convert-oc_config">convert-oc_config</a>
+            </div> <!-- /.select-menu-item -->
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/owncloud/core/blob/convert-oc_log/core/img/logo.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="convert-oc_log" rel="nofollow" title="convert-oc_log">convert-oc_log</a>
+            </div> <!-- /.select-menu-item -->
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/owncloud/core/blob/cookie-past/core/img/logo.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="cookie-past" rel="nofollow" title="cookie-past">cookie-past</a>
+            </div> <!-- /.select-menu-item -->
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/owncloud/core/blob/disabled-links-ui/core/img/logo.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="disabled-links-ui" rel="nofollow" title="disabled-links-ui">disabled-links-ui</a>
+            </div> <!-- /.select-menu-item -->
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/owncloud/core/blob/do_not_depend_on_session/core/img/logo.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="do_not_depend_on_session" rel="nofollow" title="do_not_depend_on_session">do_not_depend_on_session</a>
+            </div> <!-- /.select-menu-item -->
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/owncloud/core/blob/doctrine/core/img/logo.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="doctrine" rel="nofollow" title="doctrine">doctrine</a>
+            </div> <!-- /.select-menu-item -->
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/owncloud/core/blob/doctrine-object/core/img/logo.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="doctrine-object" rel="nofollow" title="doctrine-object">doctrine-object</a>
+            </div> <!-- /.select-menu-item -->
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/owncloud/core/blob/doctrine-object-appconfig/core/img/logo.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="doctrine-object-appconfig" rel="nofollow" title="doctrine-object-appconfig">doctrine-object-appconfig</a>
+            </div> <!-- /.select-menu-item -->
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/owncloud/core/blob/dummy_session_for_errors/core/img/logo.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="dummy_session_for_errors" rel="nofollow" title="dummy_session_for_errors">dummy_session_for_errors</a>
+            </div> <!-- /.select-menu-item -->
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/owncloud/core/blob/easier-testing/core/img/logo.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="easier-testing" rel="nofollow" title="easier-testing">easier-testing</a>
+            </div> <!-- /.select-menu-item -->
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/owncloud/core/blob/em-to-px/core/img/logo.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="em-to-px" rel="nofollow" title="em-to-px">em-to-px</a>
+            </div> <!-- /.select-menu-item -->
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/owncloud/core/blob/ext-fs-irods-master/core/img/logo.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="ext-fs-irods-master" rel="nofollow" title="ext-fs-irods-master">ext-fs-irods-master</a>
+            </div> <!-- /.select-menu-item -->
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/owncloud/core/blob/external_sharing_api/core/img/logo.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="external_sharing_api" rel="nofollow" title="external_sharing_api">external_sharing_api</a>
+            </div> <!-- /.select-menu-item -->
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/owncloud/core/blob/fileapi/core/img/logo.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="fileapi" rel="nofollow" title="fileapi">fileapi</a>
+            </div> <!-- /.select-menu-item -->
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/owncloud/core/blob/files_external_speedup/core/img/logo.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="files_external_speedup" rel="nofollow" title="files_external_speedup">files_external_speedup</a>
+            </div> <!-- /.select-menu-item -->
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/owncloud/core/blob/fix-2494/core/img/logo.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="fix-2494" rel="nofollow" title="fix-2494">fix-2494</a>
+            </div> <!-- /.select-menu-item -->
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/owncloud/core/blob/fix_2545/core/img/logo.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="fix_2545" rel="nofollow" title="fix_2545">fix_2545</a>
+            </div> <!-- /.select-menu-item -->
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/owncloud/core/blob/fix-2820/core/img/logo.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="fix-2820" rel="nofollow" title="fix-2820">fix-2820</a>
+            </div> <!-- /.select-menu-item -->
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/owncloud/core/blob/fix-2928_share_translation/core/img/logo.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="fix-2928_share_translation" rel="nofollow" title="fix-2928_share_translation">fix-2928_share_translation</a>
+            </div> <!-- /.select-menu-item -->
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/owncloud/core/blob/fix_3528/core/img/logo.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="fix_3528" rel="nofollow" title="fix_3528">fix_3528</a>
+            </div> <!-- /.select-menu-item -->
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/owncloud/core/blob/fix_3592/core/img/logo.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="fix_3592" rel="nofollow" title="fix_3592">fix_3592</a>
+            </div> <!-- /.select-menu-item -->
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/owncloud/core/blob/fix_3597/core/img/logo.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="fix_3597" rel="nofollow" title="fix_3597">fix_3597</a>
+            </div> <!-- /.select-menu-item -->
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/owncloud/core/blob/fix_display_name_edit/core/img/logo.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="fix_display_name_edit" rel="nofollow" title="fix_display_name_edit">fix_display_name_edit</a>
+            </div> <!-- /.select-menu-item -->
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/owncloud/core/blob/fix_extra_slash/core/img/logo.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="fix_extra_slash" rel="nofollow" title="fix_extra_slash">fix_extra_slash</a>
+            </div> <!-- /.select-menu-item -->
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/owncloud/core/blob/fix_false_positive_share/core/img/logo.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="fix_false_positive_share" rel="nofollow" title="fix_false_positive_share">fix_false_positive_share</a>
+            </div> <!-- /.select-menu-item -->
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/owncloud/core/blob/fix_fetchrow_usage_for_mdb2/core/img/logo.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="fix_fetchrow_usage_for_mdb2" rel="nofollow" title="fix_fetchrow_usage_for_mdb2">fix_fetchrow_usage_for_mdb2</a>
+            </div> <!-- /.select-menu-item -->
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/owncloud/core/blob/fix_mdb2_error_generation/core/img/logo.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="fix_mdb2_error_generation" rel="nofollow" title="fix_mdb2_error_generation">fix_mdb2_error_generation</a>
+            </div> <!-- /.select-menu-item -->
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/owncloud/core/blob/fix_mouseoverhiddengroups/core/img/logo.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="fix_mouseoverhiddengroups" rel="nofollow" title="fix_mouseoverhiddengroups">fix_mouseoverhiddengroups</a>
+            </div> <!-- /.select-menu-item -->
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/owncloud/core/blob/fix-pasting-in-login-fields/core/img/logo.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="fix-pasting-in-login-fields" rel="nofollow" title="fix-pasting-in-login-fields">fix-pasting-in-login-fields</a>
+            </div> <!-- /.select-menu-item -->
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/owncloud/core/blob/fix_pdo_statement_wrapper_numrows_on_modification/core/img/logo.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="fix_pdo_statement_wrapper_numrows_on_modification" rel="nofollow" title="fix_pdo_statement_wrapper_numrows_on_modification">fix_pdo_statement_wrapper_numrows_on_modification</a>
+            </div> <!-- /.select-menu-item -->
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/owncloud/core/blob/fix_touch/core/img/logo.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="fix_touch" rel="nofollow" title="fix_touch">fix_touch</a>
+            </div> <!-- /.select-menu-item -->
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/owncloud/core/blob/fixing-1086-master/core/img/logo.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="fixing-1086-master" rel="nofollow" title="fixing-1086-master">fixing-1086-master</a>
+            </div> <!-- /.select-menu-item -->
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/owncloud/core/blob/fixing-3740-master/core/img/logo.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="fixing-3740-master" rel="nofollow" title="fixing-3740-master">fixing-3740-master</a>
+            </div> <!-- /.select-menu-item -->
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/owncloud/core/blob/fixing-windows-server-master/core/img/logo.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="fixing-windows-server-master" rel="nofollow" title="fixing-windows-server-master">fixing-windows-server-master</a>
+            </div> <!-- /.select-menu-item -->
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/owncloud/core/blob/googledrive/core/img/logo.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="googledrive" rel="nofollow" title="googledrive">googledrive</a>
+            </div> <!-- /.select-menu-item -->
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/owncloud/core/blob/icon-cleanup/core/img/logo.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="icon-cleanup" rel="nofollow" title="icon-cleanup">icon-cleanup</a>
+            </div> <!-- /.select-menu-item -->
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/owncloud/core/blob/init-order-session/core/img/logo.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="init-order-session" rel="nofollow" title="init-order-session">init-order-session</a>
+            </div> <!-- /.select-menu-item -->
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/owncloud/core/blob/jquery.multiselect-1.13/core/img/logo.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="jquery.multiselect-1.13" rel="nofollow" title="jquery.multiselect-1.13">jquery.multiselect-1.13</a>
+            </div> <!-- /.select-menu-item -->
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/owncloud/core/blob/lock/core/img/logo.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="lock" rel="nofollow" title="lock">lock</a>
+            </div> <!-- /.select-menu-item -->
+            <div class="select-menu-item js-navigation-item selected">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/owncloud/core/blob/master/core/img/logo.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="master" rel="nofollow" title="master">master</a>
+            </div> <!-- /.select-menu-item -->
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/owncloud/core/blob/master-on-windows/core/img/logo.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="master-on-windows" rel="nofollow" title="master-on-windows">master-on-windows</a>
+            </div> <!-- /.select-menu-item -->
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/owncloud/core/blob/mjob-password-strength/core/img/logo.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="mjob-password-strength" rel="nofollow" title="mjob-password-strength">mjob-password-strength</a>
+            </div> <!-- /.select-menu-item -->
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/owncloud/core/blob/mount-displayname/core/img/logo.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="mount-displayname" rel="nofollow" title="mount-displayname">mount-displayname</a>
+            </div> <!-- /.select-menu-item -->
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/owncloud/core/blob/navigation-top/core/img/logo.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="navigation-top" rel="nofollow" title="navigation-top">navigation-top</a>
+            </div> <!-- /.select-menu-item -->
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/owncloud/core/blob/new_versions_dropdown/core/img/logo.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="new_versions_dropdown" rel="nofollow" title="new_versions_dropdown">new_versions_dropdown</a>
+            </div> <!-- /.select-menu-item -->
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/owncloud/core/blob/oc_preview/core/img/logo.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="oc_preview" rel="nofollow" title="oc_preview">oc_preview</a>
+            </div> <!-- /.select-menu-item -->
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/owncloud/core/blob/ocdialogs_no_global_variable/core/img/logo.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="ocdialogs_no_global_variable" rel="nofollow" title="ocdialogs_no_global_variable">ocdialogs_no_global_variable</a>
+            </div> <!-- /.select-menu-item -->
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/owncloud/core/blob/oracle_and_testsuite_fixes/core/img/logo.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="oracle_and_testsuite_fixes" rel="nofollow" title="oracle_and_testsuite_fixes">oracle_and_testsuite_fixes</a>
+            </div> <!-- /.select-menu-item -->
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/owncloud/core/blob/oracle_stable5/core/img/logo.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="oracle_stable5" rel="nofollow" title="oracle_stable5">oracle_stable5</a>
+            </div> <!-- /.select-menu-item -->
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/owncloud/core/blob/prevent_ghost_files/core/img/logo.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="prevent_ghost_files" rel="nofollow" title="prevent_ghost_files">prevent_ghost_files</a>
+            </div> <!-- /.select-menu-item -->
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/owncloud/core/blob/prevent_properties_fts/core/img/logo.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="prevent_properties_fts" rel="nofollow" title="prevent_properties_fts">prevent_properties_fts</a>
+            </div> <!-- /.select-menu-item -->
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/owncloud/core/blob/prevent-renaming-mount/core/img/logo.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="prevent-renaming-mount" rel="nofollow" title="prevent-renaming-mount">prevent-renaming-mount</a>
+            </div> <!-- /.select-menu-item -->
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/owncloud/core/blob/public_getview/core/img/logo.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="public_getview" rel="nofollow" title="public_getview">public_getview</a>
+            </div> <!-- /.select-menu-item -->
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/owncloud/core/blob/recursive-rmdir/core/img/logo.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="recursive-rmdir" rel="nofollow" title="recursive-rmdir">recursive-rmdir</a>
+            </div> <!-- /.select-menu-item -->
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/owncloud/core/blob/remove-htaccess/core/img/logo.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="remove-htaccess" rel="nofollow" title="remove-htaccess">remove-htaccess</a>
+            </div> <!-- /.select-menu-item -->
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/owncloud/core/blob/remove_unnecessary_exception_catch_block/core/img/logo.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="remove_unnecessary_exception_catch_block" rel="nofollow" title="remove_unnecessary_exception_catch_block">remove_unnecessary_exception_catch_block</a>
+            </div> <!-- /.select-menu-item -->
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/owncloud/core/blob/sabre-master/core/img/logo.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="sabre-master" rel="nofollow" title="sabre-master">sabre-master</a>
+            </div> <!-- /.select-menu-item -->
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/owncloud/core/blob/sabredav/core/img/logo.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="sabredav" rel="nofollow" title="sabredav">sabredav</a>
+            </div> <!-- /.select-menu-item -->
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/owncloud/core/blob/search-keyboard_shortcut/core/img/logo.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="search-keyboard_shortcut" rel="nofollow" title="search-keyboard_shortcut">search-keyboard_shortcut</a>
+            </div> <!-- /.select-menu-item -->
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/owncloud/core/blob/search_lucene_simple/core/img/logo.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="search_lucene_simple" rel="nofollow" title="search_lucene_simple">search_lucene_simple</a>
+            </div> <!-- /.select-menu-item -->
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/owncloud/core/blob/session/core/img/logo.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="session" rel="nofollow" title="session">session</a>
+            </div> <!-- /.select-menu-item -->
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/owncloud/core/blob/share/core/img/logo.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="share" rel="nofollow" title="share">share</a>
+            </div> <!-- /.select-menu-item -->
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/owncloud/core/blob/share_collections_1/core/img/logo.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="share_collections_1" rel="nofollow" title="share_collections_1">share_collections_1</a>
+            </div> <!-- /.select-menu-item -->
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/owncloud/core/blob/share_dialog_fix/core/img/logo.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="share_dialog_fix" rel="nofollow" title="share_dialog_fix">share_dialog_fix</a>
+            </div> <!-- /.select-menu-item -->
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/owncloud/core/blob/sharing-dropdown-html/core/img/logo.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="sharing-dropdown-html" rel="nofollow" title="sharing-dropdown-html">sharing-dropdown-html</a>
+            </div> <!-- /.select-menu-item -->
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/owncloud/core/blob/smb/core/img/logo.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="smb" rel="nofollow" title="smb">smb</a>
+            </div> <!-- /.select-menu-item -->
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/owncloud/core/blob/soc-user/core/img/logo.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="soc-user" rel="nofollow" title="soc-user">soc-user</a>
+            </div> <!-- /.select-menu-item -->
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/owncloud/core/blob/sort_userlist/core/img/logo.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="sort_userlist" rel="nofollow" title="sort_userlist">sort_userlist</a>
+            </div> <!-- /.select-menu-item -->
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/owncloud/core/blob/stabel45/core/img/logo.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="stabel45" rel="nofollow" title="stabel45">stabel45</a>
+            </div> <!-- /.select-menu-item -->
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/owncloud/core/blob/stable/core/img/logo.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="stable" rel="nofollow" title="stable">stable</a>
+            </div> <!-- /.select-menu-item -->
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/owncloud/core/blob/stable4/core/img/logo.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="stable4" rel="nofollow" title="stable4">stable4</a>
+            </div> <!-- /.select-menu-item -->
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/owncloud/core/blob/stable5/core/img/logo.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="stable5" rel="nofollow" title="stable5">stable5</a>
+            </div> <!-- /.select-menu-item -->
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/owncloud/core/blob/stable5_backport_oracle_fixes/core/img/logo.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="stable5_backport_oracle_fixes" rel="nofollow" title="stable5_backport_oracle_fixes">stable5_backport_oracle_fixes</a>
+            </div> <!-- /.select-menu-item -->
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/owncloud/core/blob/stable45/core/img/logo.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="stable45" rel="nofollow" title="stable45">stable45</a>
+            </div> <!-- /.select-menu-item -->
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/owncloud/core/blob/storage-wrapper/core/img/logo.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="storage-wrapper" rel="nofollow" title="storage-wrapper">storage-wrapper</a>
+            </div> <!-- /.select-menu-item -->
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/owncloud/core/blob/test_fixes_for_dbschema/core/img/logo.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="test_fixes_for_dbschema" rel="nofollow" title="test_fixes_for_dbschema">test_fixes_for_dbschema</a>
+            </div> <!-- /.select-menu-item -->
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/owncloud/core/blob/trash-rename/core/img/logo.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="trash-rename" rel="nofollow" title="trash-rename">trash-rename</a>
+            </div> <!-- /.select-menu-item -->
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/owncloud/core/blob/trashbin_tests/core/img/logo.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="trashbin_tests" rel="nofollow" title="trashbin_tests">trashbin_tests</a>
+            </div> <!-- /.select-menu-item -->
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/owncloud/core/blob/urlencode_json_file_lists/core/img/logo.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="urlencode_json_file_lists" rel="nofollow" title="urlencode_json_file_lists">urlencode_json_file_lists</a>
+            </div> <!-- /.select-menu-item -->
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/owncloud/core/blob/use_to_char_for_oracle_clob_comparisons/core/img/logo.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="use_to_char_for_oracle_clob_comparisons" rel="nofollow" title="use_to_char_for_oracle_clob_comparisons">use_to_char_for_oracle_clob_comparisons</a>
+            </div> <!-- /.select-menu-item -->
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/owncloud/core/blob/user_notifications/core/img/logo.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="user_notifications" rel="nofollow" title="user_notifications">user_notifications</a>
+            </div> <!-- /.select-menu-item -->
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/owncloud/core/blob/warn-upgrade/core/img/logo.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="warn-upgrade" rel="nofollow" title="warn-upgrade">warn-upgrade</a>
+            </div> <!-- /.select-menu-item -->
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/owncloud/core/blob/web.config-for-iis-master/core/img/logo.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="web.config-for-iis-master" rel="nofollow" title="web.config-for-iis-master">web.config-for-iis-master</a>
+            </div> <!-- /.select-menu-item -->
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/owncloud/core/blob/webcal/core/img/logo.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="webcal" rel="nofollow" title="webcal">webcal</a>
+            </div> <!-- /.select-menu-item -->
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/owncloud/core/blob/webdav-session-close/core/img/logo.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="webdav-session-close" rel="nofollow" title="webdav-session-close">webdav-session-close</a>
+            </div> <!-- /.select-menu-item -->
+        </div>
+
+          <div class="select-menu-no-results">Nothing to show</div>
+      </div> <!-- /.select-menu-list -->
+
+      <div class="select-menu-list select-menu-tab-bucket js-select-menu-tab-bucket" data-tab-filter="tags">
+        <div data-filterable-for="context-commitish-filter-field" data-filterable-type="substring">
+
+
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/owncloud/core/blob/v5.0.7/core/img/logo.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="v5.0.7" rel="nofollow" title="v5.0.7">v5.0.7</a>
+            </div> <!-- /.select-menu-item -->
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/owncloud/core/blob/v5.0.6/core/img/logo.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="v5.0.6" rel="nofollow" title="v5.0.6">v5.0.6</a>
+            </div> <!-- /.select-menu-item -->
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/owncloud/core/blob/v5.0.5RC1/core/img/logo.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="v5.0.5RC1" rel="nofollow" title="v5.0.5RC1">v5.0.5RC1</a>
+            </div> <!-- /.select-menu-item -->
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/owncloud/core/blob/v5.0.5/core/img/logo.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="v5.0.5" rel="nofollow" title="v5.0.5">v5.0.5</a>
+            </div> <!-- /.select-menu-item -->
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/owncloud/core/blob/v5.0.4RC1/core/img/logo.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="v5.0.4RC1" rel="nofollow" title="v5.0.4RC1">v5.0.4RC1</a>
+            </div> <!-- /.select-menu-item -->
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/owncloud/core/blob/v5.0.4/core/img/logo.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="v5.0.4" rel="nofollow" title="v5.0.4">v5.0.4</a>
+            </div> <!-- /.select-menu-item -->
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/owncloud/core/blob/v5.0.3/core/img/logo.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="v5.0.3" rel="nofollow" title="v5.0.3">v5.0.3</a>
+            </div> <!-- /.select-menu-item -->
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/owncloud/core/blob/v5.0.2/core/img/logo.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="v5.0.2" rel="nofollow" title="v5.0.2">v5.0.2</a>
+            </div> <!-- /.select-menu-item -->
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/owncloud/core/blob/v5.0.1/core/img/logo.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="v5.0.1" rel="nofollow" title="v5.0.1">v5.0.1</a>
+            </div> <!-- /.select-menu-item -->
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/owncloud/core/blob/v5.0.0beta2/core/img/logo.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="v5.0.0beta2" rel="nofollow" title="v5.0.0beta2">v5.0.0beta2</a>
+            </div> <!-- /.select-menu-item -->
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/owncloud/core/blob/v5.0.0beta1/core/img/logo.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="v5.0.0beta1" rel="nofollow" title="v5.0.0beta1">v5.0.0beta1</a>
+            </div> <!-- /.select-menu-item -->
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/owncloud/core/blob/v5.0.0alpha1/core/img/logo.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="v5.0.0alpha1" rel="nofollow" title="v5.0.0alpha1">v5.0.0alpha1</a>
+            </div> <!-- /.select-menu-item -->
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/owncloud/core/blob/v5.0.0RC3/core/img/logo.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="v5.0.0RC3" rel="nofollow" title="v5.0.0RC3">v5.0.0RC3</a>
+            </div> <!-- /.select-menu-item -->
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/owncloud/core/blob/v5.0.0RC2/core/img/logo.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="v5.0.0RC2" rel="nofollow" title="v5.0.0RC2">v5.0.0RC2</a>
+            </div> <!-- /.select-menu-item -->
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/owncloud/core/blob/v5.0.0RC1/core/img/logo.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="v5.0.0RC1" rel="nofollow" title="v5.0.0RC1">v5.0.0RC1</a>
+            </div> <!-- /.select-menu-item -->
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/owncloud/core/blob/v5.0.0/core/img/logo.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="v5.0.0" rel="nofollow" title="v5.0.0">v5.0.0</a>
+            </div> <!-- /.select-menu-item -->
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/owncloud/core/blob/v4.5.12/core/img/logo.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="v4.5.12" rel="nofollow" title="v4.5.12">v4.5.12</a>
+            </div> <!-- /.select-menu-item -->
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/owncloud/core/blob/v4.5.11/core/img/logo.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="v4.5.11" rel="nofollow" title="v4.5.11">v4.5.11</a>
+            </div> <!-- /.select-menu-item -->
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/owncloud/core/blob/v4.5.10RC1/core/img/logo.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="v4.5.10RC1" rel="nofollow" title="v4.5.10RC1">v4.5.10RC1</a>
+            </div> <!-- /.select-menu-item -->
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/owncloud/core/blob/v4.5.10/core/img/logo.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="v4.5.10" rel="nofollow" title="v4.5.10">v4.5.10</a>
+            </div> <!-- /.select-menu-item -->
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/owncloud/core/blob/v4.5.9/core/img/logo.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="v4.5.9" rel="nofollow" title="v4.5.9">v4.5.9</a>
+            </div> <!-- /.select-menu-item -->
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/owncloud/core/blob/v4.5.8/core/img/logo.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="v4.5.8" rel="nofollow" title="v4.5.8">v4.5.8</a>
+            </div> <!-- /.select-menu-item -->
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/owncloud/core/blob/v4.5.7/core/img/logo.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="v4.5.7" rel="nofollow" title="v4.5.7">v4.5.7</a>
+            </div> <!-- /.select-menu-item -->
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/owncloud/core/blob/v4.5.6/core/img/logo.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="v4.5.6" rel="nofollow" title="v4.5.6">v4.5.6</a>
+            </div> <!-- /.select-menu-item -->
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/owncloud/core/blob/v4.5.5/core/img/logo.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="v4.5.5" rel="nofollow" title="v4.5.5">v4.5.5</a>
+            </div> <!-- /.select-menu-item -->
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/owncloud/core/blob/v4.5.4/core/img/logo.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="v4.5.4" rel="nofollow" title="v4.5.4">v4.5.4</a>
+            </div> <!-- /.select-menu-item -->
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/owncloud/core/blob/v4.5.3/core/img/logo.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="v4.5.3" rel="nofollow" title="v4.5.3">v4.5.3</a>
+            </div> <!-- /.select-menu-item -->
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/owncloud/core/blob/v4.5.2/core/img/logo.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="v4.5.2" rel="nofollow" title="v4.5.2">v4.5.2</a>
+            </div> <!-- /.select-menu-item -->
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/owncloud/core/blob/v4.5.1a/core/img/logo.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="v4.5.1a" rel="nofollow" title="v4.5.1a">v4.5.1a</a>
+            </div> <!-- /.select-menu-item -->
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/owncloud/core/blob/v4.5.1/core/img/logo.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="v4.5.1" rel="nofollow" title="v4.5.1">v4.5.1</a>
+            </div> <!-- /.select-menu-item -->
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/owncloud/core/blob/v4.5.0beta4/core/img/logo.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="v4.5.0beta4" rel="nofollow" title="v4.5.0beta4">v4.5.0beta4</a>
+            </div> <!-- /.select-menu-item -->
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/owncloud/core/blob/v4.5.0beta3/core/img/logo.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="v4.5.0beta3" rel="nofollow" title="v4.5.0beta3">v4.5.0beta3</a>
+            </div> <!-- /.select-menu-item -->
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/owncloud/core/blob/v4.5.0beta2/core/img/logo.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="v4.5.0beta2" rel="nofollow" title="v4.5.0beta2">v4.5.0beta2</a>
+            </div> <!-- /.select-menu-item -->
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/owncloud/core/blob/v4.5.0beta1/core/img/logo.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="v4.5.0beta1" rel="nofollow" title="v4.5.0beta1">v4.5.0beta1</a>
+            </div> <!-- /.select-menu-item -->
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/owncloud/core/blob/v4.5.0RC3/core/img/logo.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="v4.5.0RC3" rel="nofollow" title="v4.5.0RC3">v4.5.0RC3</a>
+            </div> <!-- /.select-menu-item -->
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/owncloud/core/blob/v4.5.0RC2/core/img/logo.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="v4.5.0RC2" rel="nofollow" title="v4.5.0RC2">v4.5.0RC2</a>
+            </div> <!-- /.select-menu-item -->
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/owncloud/core/blob/v4.5.0RC1/core/img/logo.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="v4.5.0RC1" rel="nofollow" title="v4.5.0RC1">v4.5.0RC1</a>
+            </div> <!-- /.select-menu-item -->
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/owncloud/core/blob/v4.5.0/core/img/logo.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="v4.5.0" rel="nofollow" title="v4.5.0">v4.5.0</a>
+            </div> <!-- /.select-menu-item -->
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/owncloud/core/blob/v4.0.16/core/img/logo.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="v4.0.16" rel="nofollow" title="v4.0.16">v4.0.16</a>
+            </div> <!-- /.select-menu-item -->
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/owncloud/core/blob/v4.0.15/core/img/logo.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="v4.0.15" rel="nofollow" title="v4.0.15">v4.0.15</a>
+            </div> <!-- /.select-menu-item -->
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/owncloud/core/blob/v4.0.14/core/img/logo.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="v4.0.14" rel="nofollow" title="v4.0.14">v4.0.14</a>
+            </div> <!-- /.select-menu-item -->
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/owncloud/core/blob/v4.0.13/core/img/logo.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="v4.0.13" rel="nofollow" title="v4.0.13">v4.0.13</a>
+            </div> <!-- /.select-menu-item -->
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/owncloud/core/blob/v4.0.12/core/img/logo.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="v4.0.12" rel="nofollow" title="v4.0.12">v4.0.12</a>
+            </div> <!-- /.select-menu-item -->
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/owncloud/core/blob/v4.0.11/core/img/logo.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="v4.0.11" rel="nofollow" title="v4.0.11">v4.0.11</a>
+            </div> <!-- /.select-menu-item -->
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/owncloud/core/blob/v4.0.10/core/img/logo.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="v4.0.10" rel="nofollow" title="v4.0.10">v4.0.10</a>
+            </div> <!-- /.select-menu-item -->
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/owncloud/core/blob/v4.0.9/core/img/logo.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="v4.0.9" rel="nofollow" title="v4.0.9">v4.0.9</a>
+            </div> <!-- /.select-menu-item -->
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/owncloud/core/blob/v4.0.8/core/img/logo.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="v4.0.8" rel="nofollow" title="v4.0.8">v4.0.8</a>
+            </div> <!-- /.select-menu-item -->
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/owncloud/core/blob/v4.0.7/core/img/logo.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="v4.0.7" rel="nofollow" title="v4.0.7">v4.0.7</a>
+            </div> <!-- /.select-menu-item -->
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/owncloud/core/blob/v4.0.6/core/img/logo.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="v4.0.6" rel="nofollow" title="v4.0.6">v4.0.6</a>
+            </div> <!-- /.select-menu-item -->
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/owncloud/core/blob/v4.0.5/core/img/logo.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="v4.0.5" rel="nofollow" title="v4.0.5">v4.0.5</a>
+            </div> <!-- /.select-menu-item -->
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/owncloud/core/blob/v4.0.4/core/img/logo.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="v4.0.4" rel="nofollow" title="v4.0.4">v4.0.4</a>
+            </div> <!-- /.select-menu-item -->
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/owncloud/core/blob/v4.0.3/core/img/logo.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="v4.0.3" rel="nofollow" title="v4.0.3">v4.0.3</a>
+            </div> <!-- /.select-menu-item -->
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/owncloud/core/blob/v4.0.2/core/img/logo.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="v4.0.2" rel="nofollow" title="v4.0.2">v4.0.2</a>
+            </div> <!-- /.select-menu-item -->
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/owncloud/core/blob/v4.0.1/core/img/logo.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="v4.0.1" rel="nofollow" title="v4.0.1">v4.0.1</a>
+            </div> <!-- /.select-menu-item -->
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/owncloud/core/blob/v4.0.0beta/core/img/logo.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="v4.0.0beta" rel="nofollow" title="v4.0.0beta">v4.0.0beta</a>
+            </div> <!-- /.select-menu-item -->
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/owncloud/core/blob/v4.0.0RC2/core/img/logo.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="v4.0.0RC2" rel="nofollow" title="v4.0.0RC2">v4.0.0RC2</a>
+            </div> <!-- /.select-menu-item -->
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/owncloud/core/blob/v4.0.0RC/core/img/logo.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="v4.0.0RC" rel="nofollow" title="v4.0.0RC">v4.0.0RC</a>
+            </div> <!-- /.select-menu-item -->
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/owncloud/core/blob/v4.0.0/core/img/logo.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="v4.0.0" rel="nofollow" title="v4.0.0">v4.0.0</a>
+            </div> <!-- /.select-menu-item -->
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/owncloud/core/blob/v3.0.1/core/img/logo.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="v3.0.1" rel="nofollow" title="v3.0.1">v3.0.1</a>
+            </div> <!-- /.select-menu-item -->
+            <div class="select-menu-item js-navigation-item ">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/owncloud/core/blob/v3.0/core/img/logo.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="v3.0" rel="nofollow" title="v3.0">v3.0</a>
+            </div> <!-- /.select-menu-item -->
+        </div>
+
+        <div class="select-menu-no-results">Nothing to show</div>
+      </div> <!-- /.select-menu-list -->
+
+    </div> <!-- /.select-menu-modal -->
+  </div> <!-- /.select-menu-modal-holder -->
+</div> <!-- /.select-menu -->
+
+          <div class="breadcrumb">
+            <span class='bold'><span itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a href="/owncloud/core" data-branch="master" data-direction="back" data-pjax="true" itemscope="url"><span itemprop="title">core</span></a></span></span><span class="separator"> / </span><span itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a href="/owncloud/core/tree/master/core" data-branch="master" data-direction="back" data-pjax="true" itemscope="url"><span itemprop="title">core</span></a></span><span class="separator"> / </span><span itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a href="/owncloud/core/tree/master/core/img" data-branch="master" data-direction="back" data-pjax="true" itemscope="url"><span itemprop="title">img</span></a></span><span class="separator"> / </span><strong class="final-path">logo.png</strong> <span class="js-zeroclipboard zeroclipboard-button" data-clipboard-text="core/img/logo.png" data-copied-hint="copied!" title="copy to clipboard"><span class="octicon octicon-clippy"></span></span>
+          </div>
+        </div>
+
+
+        
+  <div class="commit file-history-tease">
+    <img class="main-avatar" height="24" src="https://secure.gravatar.com/avatar/917dab919ae812f8252b2f501c514b19?s=140&amp;d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png" width="24" />
+    <span class="author"><a href="/Kondou-ger" rel="author">Kondou-ger</a></span>
+    <time class="js-relative-date" datetime="2013-04-07T11:09:25-07:00" title="2013-04-07 11:09:25">April 07, 2013</time>
+    <div class="commit-title">
+        <a href="/owncloud/core/commit/f59aedff4fd4aeee869abb3b57f7e531b62e164d" class="message" data-pjax="true">Optimize pictures with optipng.</a>
+    </div>
+
+    <div class="participation">
+      <p class="quickstat"><a href="#blob_contributors_box" rel="facebox"><strong>2</strong> contributors</a></p>
+          <a class="avatar tooltipped downwards" title="LukasReschke" href="/owncloud/core/commits/master/core/img/logo.png?author=LukasReschke"><img height="20" src="https://secure.gravatar.com/avatar/f080e75d370a4d8e550983a4898bcf3b?s=140&amp;d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png" width="20" /></a>
+    <a class="avatar tooltipped downwards" title="Kondou-ger" href="/owncloud/core/commits/master/core/img/logo.png?author=Kondou-ger"><img height="20" src="https://secure.gravatar.com/avatar/917dab919ae812f8252b2f501c514b19?s=140&amp;d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png" width="20" /></a>
+
+
+    </div>
+    <div id="blob_contributors_box" style="display:none">
+      <h2 class="facebox-header">Users who have contributed to this file</h2>
+      <ul class="facebox-user-list">
+        <li class="facebox-user-list-item">
+          <img height="24" src="https://secure.gravatar.com/avatar/f080e75d370a4d8e550983a4898bcf3b?s=140&amp;d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png" width="24" />
+          <a href="/LukasReschke">LukasReschke</a>
+        </li>
+        <li class="facebox-user-list-item">
+          <img height="24" src="https://secure.gravatar.com/avatar/917dab919ae812f8252b2f501c514b19?s=140&amp;d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png" width="24" />
+          <a href="/Kondou-ger">Kondou-ger</a>
+        </li>
+      </ul>
+    </div>
+  </div>
+
+
+
+        <div id="files" class="bubble">
+          <div class="file">
+            <div class="meta">
+              <div class="info">
+                <span class="icon"><b class="octicon octicon-file-text"></b></span>
+                <span class="mode" title="File Mode">file</span>
+                <span>5.182 kb</span>
+              </div>
+              <div class="actions">
+                <div class="button-group">
+                  <a href="/owncloud/core/raw/master/core/img/logo.png" class="button minibutton " id="raw-url">Raw</a>
+                  <a href="/owncloud/core/commits/master/core/img/logo.png" class="button minibutton " rel="nofollow">History</a>
+                </div><!-- /.button-group -->
+              </div><!-- /.actions -->
+
+            </div>
+                <div class="blob-wrapper data type-text js-blob-data">
+      <div class="image js-image">
+          <span class="border-wrap"><img src="/owncloud/core/blob/master/core/img/logo.png?raw=true" /></span>
+      </div>
+    <!-- CSVs/TSVs can get pretty big, and they're not being shown if they fail blob.large? -->
+  </div>
+
+          </div>
+        </div>
+
+        <a href="#jump-to-line" rel="facebox[.linejump]" data-hotkey="l" class="js-jump-to-line" style="display:none">Jump to Line</a>
+        <div id="jump-to-line" style="display:none">
+          <form accept-charset="UTF-8" class="js-jump-to-line-form">
+            <input class="linejump-input js-jump-to-line-field" type="text" placeholder="Jump to line&hellip;">
+            <button type="submit" class="button">Go</button>
+          </form>
+        </div>
+
+</div>
+
+<div id="js-frame-loading-template" class="frame frame-loading large-loading-area" style="display:none;">
+  <img class="js-frame-loading-spinner" src="https://a248.e.akamai.net/assets.github.com/images/spinners/octocat-spinner-128.gif" height="64" width="64">
+</div>
+
+
+          </div>
+        </div>
+
+      </div><!-- /.repo-container -->
+      <div class="modal-backdrop"></div>
+    </div>
+  </div><!-- /.site -->
+
+
+      <div id="footer-push"></div><!-- hack for sticky footer -->
+    </div><!-- end of wrapper - hack for sticky footer -->
+
+      <!-- footer -->
+      <div id="footer">
+  <div class="container clearfix">
+
+      <dl class="footer_nav">
+        <dt>GitHub</dt>
+        <dd><a href="/about">About us</a></dd>
+        <dd><a href="/blog">Blog</a></dd>
+        <dd><a href="/contact">Contact &amp; support</a></dd>
+        <dd><a href="https://enterprise.github.com/">GitHub Enterprise</a></dd>
+        <dd><a href="https://status.github.com/">Site status</a></dd>
+      </dl>
+
+      <dl class="footer_nav">
+        <dt>Applications</dt>
+        <dd><a href="http://mac.github.com/">GitHub for Mac</a></dd>
+        <dd><a href="http://windows.github.com/">GitHub for Windows</a></dd>
+        <dd><a href="http://eclipse.github.com/">GitHub for Eclipse</a></dd>
+        <dd><a href="http://mobile.github.com/">GitHub mobile apps</a></dd>
+      </dl>
+
+      <dl class="footer_nav">
+        <dt>Services</dt>
+        <dd><a href="http://get.gaug.es/">Gauges: Web analytics</a></dd>
+        <dd><a href="https://speakerdeck.com">Speaker Deck: Presentations</a></dd>
+        <dd><a href="https://gist.github.com">Gist: Code snippets</a></dd>
+        <dd><a href="https://jobs.github.com/">Job board</a></dd>
+      </dl>
+
+      <dl class="footer_nav">
+        <dt>Documentation</dt>
+        <dd><a href="https://help.github.com/">GitHub Help</a></dd>
+        <dd><a href="http://developer.github.com/">Developer API</a></dd>
+        <dd><a href="http://github.github.com/github-flavored-markdown/">GitHub Flavored Markdown</a></dd>
+        <dd><a href="http://pages.github.com/">GitHub Pages</a></dd>
+      </dl>
+
+      <dl class="footer_nav">
+        <dt>More</dt>
+        <dd><a href="http://training.github.com/">Training</a></dd>
+        <dd><a href="/edu">Students &amp; teachers</a></dd>
+        <dd><a href="http://shop.github.com">The Shop</a></dd>
+        <dd><a href="/plans">Plans &amp; pricing</a></dd>
+        <dd><a href="http://octodex.github.com/">The Octodex</a></dd>
+      </dl>
+
+      <hr class="footer-divider">
+
+
+    <p class="right">&copy; 2013 <span title="0.05391s from fe4.rs.github.com">GitHub</span>, Inc. All rights reserved.</p>
+    <a class="left" href="/">
+      <span class="mega-octicon octicon-mark-github"></span>
+    </a>
+    <ul id="legal">
+        <li><a href="/site/terms">Terms of Service</a></li>
+        <li><a href="/site/privacy">Privacy</a></li>
+        <li><a href="/security">Security</a></li>
+    </ul>
+
+  </div><!-- /.container -->
+
+</div><!-- /.#footer -->
+
+
+    <div class="fullscreen-overlay js-fullscreen-overlay" id="fullscreen_overlay">
+  <div class="fullscreen-container js-fullscreen-container">
+    <div class="textarea-wrap">
+      <textarea name="fullscreen-contents" id="fullscreen-contents" class="js-fullscreen-contents" placeholder="" data-suggester="fullscreen_suggester"></textarea>
+          <div class="suggester-container">
+              <div class="suggester fullscreen-suggester js-navigation-container" id="fullscreen_suggester"
+                 data-url="/owncloud/core/suggestions/commit">
+              </div>
+          </div>
+    </div>
+  </div>
+  <div class="fullscreen-sidebar">
+    <a href="#" class="exit-fullscreen js-exit-fullscreen tooltipped leftwards" title="Exit Zen Mode">
+      <span class="mega-octicon octicon-screen-normal"></span>
+    </a>
+    <a href="#" class="theme-switcher js-theme-switcher tooltipped leftwards"
+      title="Switch themes">
+      <span class="octicon octicon-color-mode"></span>
+    </a>
+  </div>
+</div>
+
+
+
+    <div id="ajax-error-message" class="flash flash-error">
+      <span class="octicon octicon-alert"></span>
+      <a href="#" class="octicon octicon-remove-close close ajax-error-dismiss"></a>
+      Something went wrong with that request. Please try again.
+    </div>
+
+    
+    <span id='server_response_time' data-time='0.05427' data-host='fe4'></span>
+    
+  </body>
+</html>
+
